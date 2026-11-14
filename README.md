@@ -370,6 +370,7 @@
 * [Vellum AI Leaderboard](https://www.vellum.ai/llm-leaderboard) - Practical, non-saturated benchmark tests.
 * [PapersWithCode](https://paperswithcode.com/task/language-modelling) - Academic benchmark tracking and SOTA results.
 * [Artificial Analysis](https://artificialanalysis.ai/) - Comprehensive LLM performance comparison.
+* [AIHOT Model Leaderboard](https://aihot.news/leaderboard) - Chinese-language ranking that aggregates third-party evaluations and links to the underlying benchmarks.
 
 ### Evaluation Frameworks
 
